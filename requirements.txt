@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+matplotlib
+evidently
+prefect
+mlflow
+seaborn
+nltk==3.8.1
+wordcloud
